@@ -2,3 +2,8 @@ gitの練習をする
 基本的なワークフローの勉強
 
 変更をコミットするよ。
+
+command add
+ git add
+ git commit
+ git rm
