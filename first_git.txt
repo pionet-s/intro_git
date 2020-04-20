@@ -8,3 +8,8 @@ command add
  git commit
  git rm
  git status
+
+ git log --oneline
+ git log -n 3
+ git log -p
+
